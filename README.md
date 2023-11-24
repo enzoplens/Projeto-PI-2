@@ -1,2 +1,2 @@
 # Projeto-PI-2
-Repository used for the integration project subject in the second semester.
+Repositório usado para realizar o Projeto Integrador do segundo semestre do curso de Engenharia de Software.
